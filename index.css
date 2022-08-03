@@ -1,0 +1,12 @@
+body {background-image: url(roma.jpg);
+    background-size: cover;
+    font-weight: bold;
+text-align: center;
+
+}
+button{border: none;}
+h2{ background-color: wheat;
+background-size: 1px;
+box-sizing: 1px;
+padding: 1px;
+margin: 25px;25px}
